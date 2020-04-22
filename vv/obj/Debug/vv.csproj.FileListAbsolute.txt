@@ -1,0 +1,36 @@
+C:\Users\Zeeshan Liaqat\Documents\Visual Studio 2015\Projects\ExpertSystem\vv\bin\Debug\vv.exe.config
+C:\Users\Zeeshan Liaqat\Documents\Visual Studio 2015\Projects\ExpertSystem\vv\bin\Debug\vv.exe
+C:\Users\Zeeshan Liaqat\Documents\Visual Studio 2015\Projects\ExpertSystem\vv\bin\Debug\vv.pdb
+C:\Users\Zeeshan Liaqat\Documents\Visual Studio 2015\Projects\ExpertSystem\vv\bin\Debug\Interop.AXVLC.dll
+C:\Users\Zeeshan Liaqat\Documents\Visual Studio 2015\Projects\ExpertSystem\vv\bin\Debug\Interop.WMPLib.dll
+C:\Users\Zeeshan Liaqat\Documents\Visual Studio 2015\Projects\ExpertSystem\vv\bin\Debug\AxInterop.AXVLC.dll
+C:\Users\Zeeshan Liaqat\Documents\Visual Studio 2015\Projects\ExpertSystem\vv\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Zeeshan Liaqat\Documents\Visual Studio 2015\Projects\ExpertSystem\vv\obj\Debug\Interop.AXVLC.dll
+C:\Users\Zeeshan Liaqat\Documents\Visual Studio 2015\Projects\ExpertSystem\vv\obj\Debug\Interop.WMPLib.dll
+C:\Users\Zeeshan Liaqat\Documents\Visual Studio 2015\Projects\ExpertSystem\vv\obj\Debug\AxInterop.AXVLC.dll
+C:\Users\Zeeshan Liaqat\Documents\Visual Studio 2015\Projects\ExpertSystem\vv\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Zeeshan Liaqat\Documents\Visual Studio 2015\Projects\ExpertSystem\vv\obj\Debug\vv.csproj.ResolveComReference.cache
+C:\Users\Zeeshan Liaqat\Documents\Visual Studio 2015\Projects\ExpertSystem\vv\obj\Debug\vv.Properties.Resources.resources
+C:\Users\Zeeshan Liaqat\Documents\Visual Studio 2015\Projects\ExpertSystem\vv\obj\Debug\vv.vvd.resources
+C:\Users\Zeeshan Liaqat\Documents\Visual Studio 2015\Projects\ExpertSystem\vv\obj\Debug\vv.csproj.GenerateResource.Cache
+C:\Users\Zeeshan Liaqat\Documents\Visual Studio 2015\Projects\ExpertSystem\vv\obj\Debug\vv.exe
+C:\Users\Zeeshan Liaqat\Documents\Visual Studio 2015\Projects\ExpertSystem\vv\obj\Debug\vv.pdb
+C:\Users\Zeeshan Liaqat\Documents\Visual Studio 2015\Projects\ExpertSystem\vv\obj\Debug\vv.csprojResolveAssemblyReference.cache
+C:\Users\Hp\Desktop\ExpertSystem\vv\bin\Debug\vv.exe.config
+C:\Users\Hp\Desktop\ExpertSystem\vv\bin\Debug\vv.exe
+C:\Users\Hp\Desktop\ExpertSystem\vv\bin\Debug\vv.pdb
+C:\Users\Hp\Desktop\ExpertSystem\vv\bin\Debug\Interop.AXVLC.dll
+C:\Users\Hp\Desktop\ExpertSystem\vv\bin\Debug\Interop.WMPLib.dll
+C:\Users\Hp\Desktop\ExpertSystem\vv\bin\Debug\AxInterop.AXVLC.dll
+C:\Users\Hp\Desktop\ExpertSystem\vv\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Hp\Desktop\ExpertSystem\vv\obj\Debug\vv.csprojResolveAssemblyReference.cache
+C:\Users\Hp\Desktop\ExpertSystem\vv\obj\Debug\Interop.AXVLC.dll
+C:\Users\Hp\Desktop\ExpertSystem\vv\obj\Debug\Interop.WMPLib.dll
+C:\Users\Hp\Desktop\ExpertSystem\vv\obj\Debug\AxInterop.AXVLC.dll
+C:\Users\Hp\Desktop\ExpertSystem\vv\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Hp\Desktop\ExpertSystem\vv\obj\Debug\vv.csproj.ResolveComReference.cache
+C:\Users\Hp\Desktop\ExpertSystem\vv\obj\Debug\vv.Properties.Resources.resources
+C:\Users\Hp\Desktop\ExpertSystem\vv\obj\Debug\vv.vvd.resources
+C:\Users\Hp\Desktop\ExpertSystem\vv\obj\Debug\vv.csproj.GenerateResource.Cache
+C:\Users\Hp\Desktop\ExpertSystem\vv\obj\Debug\vv.exe
+C:\Users\Hp\Desktop\ExpertSystem\vv\obj\Debug\vv.pdb

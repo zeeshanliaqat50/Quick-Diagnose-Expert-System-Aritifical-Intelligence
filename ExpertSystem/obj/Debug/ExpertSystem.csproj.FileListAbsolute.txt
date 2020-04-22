@@ -1,0 +1,61 @@
+C:\Users\Zeeshan Liaqat\Documents\Visual Studio 2015\Projects\ExpertSystem\ExpertSystem\bin\Debug\ExpertSystem.exe.config
+C:\Users\Zeeshan Liaqat\Documents\Visual Studio 2015\Projects\ExpertSystem\ExpertSystem\bin\Debug\ExpertSystem.exe
+C:\Users\Zeeshan Liaqat\Documents\Visual Studio 2015\Projects\ExpertSystem\ExpertSystem\bin\Debug\ExpertSystem.pdb
+C:\Users\Zeeshan Liaqat\Documents\Visual Studio 2015\Projects\ExpertSystem\ExpertSystem\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\Zeeshan Liaqat\Documents\Visual Studio 2015\Projects\ExpertSystem\ExpertSystem\bin\Debug\vv.exe
+C:\Users\Zeeshan Liaqat\Documents\Visual Studio 2015\Projects\ExpertSystem\ExpertSystem\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Zeeshan Liaqat\Documents\Visual Studio 2015\Projects\ExpertSystem\ExpertSystem\bin\Debug\Interop.WMPLib.dll
+C:\Users\Zeeshan Liaqat\Documents\Visual Studio 2015\Projects\ExpertSystem\ExpertSystem\bin\Debug\vv.pdb
+C:\Users\Zeeshan Liaqat\Documents\Visual Studio 2015\Projects\ExpertSystem\ExpertSystem\bin\Debug\Interop.AXVLC.dll
+C:\Users\Zeeshan Liaqat\Documents\Visual Studio 2015\Projects\ExpertSystem\ExpertSystem\bin\Debug\AxInterop.AXVLC.dll
+C:\Users\Zeeshan Liaqat\Documents\Visual Studio 2015\Projects\ExpertSystem\ExpertSystem\obj\Debug\ExpertSystem.csprojResolveAssemblyReference.cache
+C:\Users\Zeeshan Liaqat\Documents\Visual Studio 2015\Projects\ExpertSystem\ExpertSystem\obj\Debug\Interop.ADOMD.dll
+C:\Users\Zeeshan Liaqat\Documents\Visual Studio 2015\Projects\ExpertSystem\ExpertSystem\obj\Debug\Interop.AXVLC.dll
+C:\Users\Zeeshan Liaqat\Documents\Visual Studio 2015\Projects\ExpertSystem\ExpertSystem\obj\Debug\Interop.WMPLib.dll
+C:\Users\Zeeshan Liaqat\Documents\Visual Studio 2015\Projects\ExpertSystem\ExpertSystem\obj\Debug\AxInterop.AXVLC.dll
+C:\Users\Zeeshan Liaqat\Documents\Visual Studio 2015\Projects\ExpertSystem\ExpertSystem\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Zeeshan Liaqat\Documents\Visual Studio 2015\Projects\ExpertSystem\ExpertSystem\obj\Debug\ExpertSystem.csproj.ResolveComReference.cache
+C:\Users\Zeeshan Liaqat\Documents\Visual Studio 2015\Projects\ExpertSystem\ExpertSystem\obj\Debug\ExpertSystem.bmb.resources
+C:\Users\Zeeshan Liaqat\Documents\Visual Studio 2015\Projects\ExpertSystem\ExpertSystem\obj\Debug\ExpertSystem.externalresult.resources
+C:\Users\Zeeshan Liaqat\Documents\Visual Studio 2015\Projects\ExpertSystem\ExpertSystem\obj\Debug\ExpertSystem.externalresultb.resources
+C:\Users\Zeeshan Liaqat\Documents\Visual Studio 2015\Projects\ExpertSystem\ExpertSystem\obj\Debug\ExpertSystem.externalsymp.resources
+C:\Users\Zeeshan Liaqat\Documents\Visual Studio 2015\Projects\ExpertSystem\ExpertSystem\obj\Debug\ExpertSystem.internalresult.resources
+C:\Users\Zeeshan Liaqat\Documents\Visual Studio 2015\Projects\ExpertSystem\ExpertSystem\obj\Debug\ExpertSystem.internalsymp.resources
+C:\Users\Zeeshan Liaqat\Documents\Visual Studio 2015\Projects\ExpertSystem\ExpertSystem\obj\Debug\ExpertSystem.MAIN.resources
+C:\Users\Zeeshan Liaqat\Documents\Visual Studio 2015\Projects\ExpertSystem\ExpertSystem\obj\Debug\ExpertSystem.bmbextd.resources
+C:\Users\Zeeshan Liaqat\Documents\Visual Studio 2015\Projects\ExpertSystem\ExpertSystem\obj\Debug\ExpertSystem.Properties.Resources.resources
+C:\Users\Zeeshan Liaqat\Documents\Visual Studio 2015\Projects\ExpertSystem\ExpertSystem\obj\Debug\ExpertSystem.splash.resources
+C:\Users\Zeeshan Liaqat\Documents\Visual Studio 2015\Projects\ExpertSystem\ExpertSystem\obj\Debug\ExpertSystem.vid.resources
+C:\Users\Zeeshan Liaqat\Documents\Visual Studio 2015\Projects\ExpertSystem\ExpertSystem\obj\Debug\ExpertSystem.csproj.GenerateResource.Cache
+C:\Users\Zeeshan Liaqat\Documents\Visual Studio 2015\Projects\ExpertSystem\ExpertSystem\obj\Debug\ExpertSystem.exe
+C:\Users\Zeeshan Liaqat\Documents\Visual Studio 2015\Projects\ExpertSystem\ExpertSystem\obj\Debug\ExpertSystem.pdb
+C:\Users\Hp\Desktop\ExpertSystem\ExpertSystem\bin\Debug\ExpertSystem.exe.config
+C:\Users\Hp\Desktop\ExpertSystem\ExpertSystem\obj\Debug\Interop.ADOMD.dll
+C:\Users\Hp\Desktop\ExpertSystem\ExpertSystem\obj\Debug\Interop.AXVLC.dll
+C:\Users\Hp\Desktop\ExpertSystem\ExpertSystem\obj\Debug\Interop.WMPLib.dll
+C:\Users\Hp\Desktop\ExpertSystem\ExpertSystem\obj\Debug\AxInterop.AXVLC.dll
+C:\Users\Hp\Desktop\ExpertSystem\ExpertSystem\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Hp\Desktop\ExpertSystem\ExpertSystem\obj\Debug\ExpertSystem.csproj.ResolveComReference.cache
+C:\Users\Hp\Desktop\ExpertSystem\ExpertSystem\obj\Debug\ExpertSystem.exe
+C:\Users\Hp\Desktop\ExpertSystem\ExpertSystem\obj\Debug\ExpertSystem.pdb
+C:\Users\Hp\Desktop\ExpertSystem\ExpertSystem\bin\Debug\ExpertSystem.exe
+C:\Users\Hp\Desktop\ExpertSystem\ExpertSystem\bin\Debug\ExpertSystem.pdb
+C:\Users\Hp\Desktop\ExpertSystem\ExpertSystem\bin\Debug\vv.exe
+C:\Users\Hp\Desktop\ExpertSystem\ExpertSystem\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Hp\Desktop\ExpertSystem\ExpertSystem\bin\Debug\Interop.WMPLib.dll
+C:\Users\Hp\Desktop\ExpertSystem\ExpertSystem\bin\Debug\vv.pdb
+C:\Users\Hp\Desktop\ExpertSystem\ExpertSystem\bin\Debug\Interop.AXVLC.dll
+C:\Users\Hp\Desktop\ExpertSystem\ExpertSystem\bin\Debug\AxInterop.AXVLC.dll
+C:\Users\Hp\Desktop\ExpertSystem\ExpertSystem\obj\Debug\ExpertSystem.csprojResolveAssemblyReference.cache
+C:\Users\Hp\Desktop\ExpertSystem\ExpertSystem\obj\Debug\ExpertSystem.bmb.resources
+C:\Users\Hp\Desktop\ExpertSystem\ExpertSystem\obj\Debug\ExpertSystem.externalresult.resources
+C:\Users\Hp\Desktop\ExpertSystem\ExpertSystem\obj\Debug\ExpertSystem.externalresultb.resources
+C:\Users\Hp\Desktop\ExpertSystem\ExpertSystem\obj\Debug\ExpertSystem.externalsymp.resources
+C:\Users\Hp\Desktop\ExpertSystem\ExpertSystem\obj\Debug\ExpertSystem.internalresult.resources
+C:\Users\Hp\Desktop\ExpertSystem\ExpertSystem\obj\Debug\ExpertSystem.internalsymp.resources
+C:\Users\Hp\Desktop\ExpertSystem\ExpertSystem\obj\Debug\ExpertSystem.MAIN.resources
+C:\Users\Hp\Desktop\ExpertSystem\ExpertSystem\obj\Debug\ExpertSystem.bmbextd.resources
+C:\Users\Hp\Desktop\ExpertSystem\ExpertSystem\obj\Debug\ExpertSystem.Properties.Resources.resources
+C:\Users\Hp\Desktop\ExpertSystem\ExpertSystem\obj\Debug\ExpertSystem.splash.resources
+C:\Users\Hp\Desktop\ExpertSystem\ExpertSystem\obj\Debug\ExpertSystem.vid.resources
+C:\Users\Hp\Desktop\ExpertSystem\ExpertSystem\obj\Debug\ExpertSystem.csproj.GenerateResource.Cache
